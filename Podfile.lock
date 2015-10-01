@@ -1,0 +1,52 @@
+PODS:
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - FontAwesomeKit (2.1.8):
+    - FontAwesomeKit/Core (= 2.1.8)
+    - FontAwesomeKit/FontAwesome (= 2.1.8)
+    - FontAwesomeKit/FoundationIcons (= 2.1.8)
+    - FontAwesomeKit/IonIcons (= 2.1.8)
+    - FontAwesomeKit/Zocial (= 2.1.8)
+  - FontAwesomeKit/Core (2.1.8)
+  - FontAwesomeKit/FontAwesome (2.1.8):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/FoundationIcons (2.1.8):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/IonIcons (2.1.8):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/Zocial (2.1.8):
+    - FontAwesomeKit/Core
+  - iRate (1.11.4)
+  - M13Checkbox (1.1.2)
+  - MZTimerLabel (0.5.3)
+  - RDVTabBarController (1.1.9)
+  - SCLAlertView-Objective-C (0.7.3)
+  - TapjoySDK (11.1.0)
+  - UAModalPanel (1.1.1)
+
+DEPENDENCIES:
+  - FMDB
+  - FontAwesomeKit (~> 2.1.0)
+  - iRate
+  - M13Checkbox (~> 1.1.0)
+  - MZTimerLabel
+  - RDVTabBarController
+  - SCLAlertView-Objective-C
+  - TapjoySDK
+  - UAModalPanel
+
+SPEC CHECKSUMS:
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  FontAwesomeKit: 64759fb28b5d2e74a1bd81553d7c11ca10e32179
+  iRate: 599ed07c854e0695f3c605d1b2a64c67d912acb7
+  M13Checkbox: 0c0bb08dcd144c4ea33f883b68270f3f56908ea2
+  MZTimerLabel: e403f84f123de8db2995838847dd58426ffed5bd
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  SCLAlertView-Objective-C: 4bf9a07c8a8d1840e5174e643e16bc032239914d
+  TapjoySDK: f5659c9e1bbd76a7b71d6bf43e36c067f9114b80
+  UAModalPanel: f53b27c1c2704b49335c14ccfab1b427167cb8b0
+
+COCOAPODS: 0.38.2
